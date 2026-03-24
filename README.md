@@ -1,2 +1,0 @@
-# Storehouse
-The First Test
